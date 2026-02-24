@@ -173,7 +173,7 @@ POST /news/6978ad38d9b195243f86bb5f/like
   ],
   "nextCursor": "6978ad38d9b195243f86bb5f"
 }
-
+```
 ---
 
 ⚙ Installation & Running
@@ -183,3 +183,15 @@ POST /news/6978ad38d9b195243f86bb5f/like
 ``` npm start ```
 3️⃣ Test API
 ``` http://localhost:5000/api/v1/news ```
+
+# Summary
+
+This backend system demonstrates:
+Automated Web Scraping
+Clean project architecture
+MongoDB structured storage
+RESTful API design
+Cursor-based pagination
+Secure validation & rate limiting
+
+It provides a scalable and secure solution for collecting and serving Gaza aid-related news.
