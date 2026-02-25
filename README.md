@@ -88,8 +88,7 @@ Gaza_Aid_News/
 ---
 
 # 🌐 API Documentation
-
-## 🔗 Base URL : ``` http://localhost:5000/api/v1 ```
+🔗 Base URL : ``` http://localhost:5000/api/v1 ```
 
 ---
 
@@ -114,11 +113,13 @@ Gaza_Aid_News/
 ### 📌 Example Requests
 
 Get latest news:
-``` GET /news ```
+``` GET /news
+```
 
 
 Search:
-``` GET /news?search=المساعدات ```
+``` GET /news?search=المساعدات 
+```
 
 Sort ascending:
 ```
